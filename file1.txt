@@ -1,8 +1,5 @@
 파일1second
 third - new branch
 fourth - new branch
-<<<<<<< HEAD
 some hot fix
-=======
 기능 1 추가
->>>>>>> ffed502 (새로운 기능 1 추가)
